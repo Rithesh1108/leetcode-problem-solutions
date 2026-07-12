@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1470-shuffle-the-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
