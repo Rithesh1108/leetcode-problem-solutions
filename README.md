@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
