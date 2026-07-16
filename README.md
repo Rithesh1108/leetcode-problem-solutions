@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -315,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
