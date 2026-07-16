@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1971-find-if-path-exists-in-graph) |
