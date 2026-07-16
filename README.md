@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
