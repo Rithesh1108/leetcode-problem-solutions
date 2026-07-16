@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -207,4 +208,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
