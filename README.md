@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0016-3sum-closest) |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
