@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
