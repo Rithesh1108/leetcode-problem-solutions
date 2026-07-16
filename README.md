@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Linked List
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
 | [1765-map-of-highest-peak](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1765-map-of-highest-peak) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
