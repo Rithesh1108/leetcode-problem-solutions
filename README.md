@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -214,14 +216,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
