@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
+| [0815-bus-routes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
+| [0815-bus-routes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0815-bus-routes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1765-map-of-highest-peak) |
