@@ -125,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [2076-process-restricted-friend-requests](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2076-process-restricted-friend-requests) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2076-process-restricted-friend-requests](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2076-process-restricted-friend-requests) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
