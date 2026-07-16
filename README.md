@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0481-magical-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -212,12 +213,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
