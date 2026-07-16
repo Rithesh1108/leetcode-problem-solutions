@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0219-contains-duplicate-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
