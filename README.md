@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1765-map-of-highest-peak) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -325,9 +327,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
