@@ -322,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
