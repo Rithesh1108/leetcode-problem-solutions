@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Trie
 |  |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
