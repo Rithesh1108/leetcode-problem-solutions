@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0041-first-missing-positive) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0093-restore-ip-addresses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Stack
 |  |
