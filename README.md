@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Queue
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
 |  |
 | ------- |
@@ -356,8 +361,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0307-range-sum-query-mutable) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
