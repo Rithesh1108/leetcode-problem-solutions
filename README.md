@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0687-longest-univalue-path](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -337,10 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0687-longest-univalue-path](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
