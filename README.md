@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0731-my-calendar-ii) |
 | [0815-bus-routes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0815-bus-routes) |
+| [0860-lemonade-change](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0860-lemonade-change) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0860-lemonade-change) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
