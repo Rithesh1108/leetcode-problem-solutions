@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0731-my-calendar-ii) |
 | [0815-bus-routes](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0815-bus-routes) |
 | [0860-lemonade-change](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1191-k-concatenation-maximum-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1492-the-kth-factor-of-n](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -456,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
