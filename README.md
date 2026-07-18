@@ -469,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0913-cat-and-mouse) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
