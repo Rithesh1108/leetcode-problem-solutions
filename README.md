@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1765-map-of-highest-peak) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
