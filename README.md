@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0860-lemonade-change) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1046-last-stone-weight](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1046-last-stone-weight) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0494-target-sum) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
