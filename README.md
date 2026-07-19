@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0481-magical-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0636-exclusive-time-of-functions) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Queue
