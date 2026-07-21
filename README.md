@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
