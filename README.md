@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
