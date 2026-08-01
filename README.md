@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0913-cat-and-mouse) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0913-cat-and-mouse) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Rithesh1108/leetcode-problem-solutions/tree/master/0913-cat-and-mouse) |
 ## Topological Sort
